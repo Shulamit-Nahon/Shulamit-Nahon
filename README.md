@@ -38,7 +38,7 @@
 > **Complete Guide to Web API in .NET 8: Master API Development**  
 > 🏫 Udemy | 🧑‍🏫 Frank Liu | 📆 March 23, 2025 | ⏱️ 23 Hours
 
-<img src="" width="400"/>
+<img src="./dotnet8-certificate.JPG" width="400"/>
 
 ---
 
